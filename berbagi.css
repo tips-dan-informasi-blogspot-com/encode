@@ -1,0 +1,27 @@
+#_tips_berbagiinfo_blogspot_com_{
+color:blue;
+background-image: url(https://scontent.fcgk9-1.fna.fbcdn.net/v/t31.0-8/fr/cp0/e15/q65/21083495_1772830419407918_7683544170213315599_o.jpg?efg=eyJpIjoidCJ9&oh=b397356f95d9ceb0964fe840c2255a00&oe=5A1C5407);
+background-size:33.5%;
+background-position:center;
+height:200px;
+width:100%;
+border:2px solid black;
+}
+/*hak cipta : www.tips-berbagiinfo.blogspot.com*/
+.tips_,.berbagiinfo_,.blogspot_com{
+top:5;
+position:relative;
+display:inline-block;
+}
+
+.berbagiinfo_{
+color:red;
+}
+
+.blogspot_com{
+color:green;
+}
+
+::-webkit-input-placeholder {
+    color: black;
+}
